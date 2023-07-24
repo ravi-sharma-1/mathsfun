@@ -1,0 +1,15 @@
+.header{
+    background-color: aquamarine;
+    color: brown;
+    margin-top: 0px;
+    padding: 10px;
+}
+.label{
+    font-size: 22px;;
+}
+.button{
+    padding: 10px;
+    background-color: brown;
+    color: #fff;
+    margin-top: 40px;
+}

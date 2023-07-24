@@ -1,0 +1,30 @@
+.input{
+    width: 15px;
+}
+.outerContiner{
+    margin-left: auto;
+    width: fit-content;
+    margin-right: auto;
+    padding: 19px;
+}
+.botBorder{
+    border-bottom: 1px solid #000;
+    padding-bottom:15px ;
+}
+.elemContainer{
+    display: flex;
+    margin-left: 10px;
+    justify-content: space-around;
+}
+span.elemContainer{
+    display: table-cell !important;
+
+}
+
+.result{
+    padding-top:15px;
+}
+
+.elem{
+    padding: 0px 10px;
+}

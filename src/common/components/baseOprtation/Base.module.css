@@ -1,0 +1,25 @@
+.input{
+    max-width: 70px;
+    height: 30px;
+    text-align: center;
+    font-size: 16px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.label{
+    font-size: 22px;
+}
+
+.button{
+    padding: 10px;
+    background-color: brown;
+    color: #fff;
+    margin-top: 40px;
+}
+.lableContainer{
+    margin-top: 10px;
+}
